@@ -25,7 +25,7 @@ hello world! (./src/commands/hello/world.ts)
 
     async run(): Promise<void> {
         // Get the list of issues from the csv
-        const csvFilePath = path.resolve(__dirname, 'files/issues100-120.csv');
+        const csvFilePath = path.resolve(__dirname, 'files/issues180-200.csv');
 
         const headers = [
             'ReferenceID',

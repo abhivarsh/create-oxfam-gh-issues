@@ -1,51 +1,4 @@
 ﻿ReferenceID,TypeofChange,Location,OldText,NewTextEN,NewTextFR,NewTextES,Language,Change to Structure,Text Change,Owner,LocationofJSON,Priority,Complete
-C0212,Edit Text,"Ph. C Step 14 -- Selection of Rights Table -- the right to freedom from forced or compulsory labor, planning, the community and human rights – question #3.3",3. Has the government take any measures to protect them?,3. Has the government taken any measures to protect them?,NA,NA,EN,,TRUE,,,,
-C0213,New Info Box,Ph. D Step 15 -- onscreen below the current list of items,"currently under ""Here are a few elements to consider in conducting interviews""","Add new gender onscreen box called: Capturing a gender diverse perspective
-As you begin the interview process, keep in mind the gender balance of the interviewees. In order to ensure accuracy and credibility of your assessment, confirm you are consulting a sufficient percentage of women and gender diverse peoples relative to men. (Your definition of sufficient will vary depending on the investment project and relevant context; however, the gender composition of your interviews remains important.) Additionally, make sure to consult with women and gender diverse peoples from a variety of backgrounds. The experiences of women and gender diverse peoples may be impacted by other aspects of their identity, such as race, religion, or ability. This will help ensure the necessary consideration for women’s and gender diverse peoples’ access to and enjoyment of their rights relating to the investment project throughout the assessment process. Few tips in short:
-- Lookout for who is missing from the discussions; whose voice isn’t being heard; whose perspective is not being shared. 
-- Be conscious of power relationships and imbalances: promote people's rights to agency and voice, and call for more opportunities for participation. This can be done by speaking with women and men and gender diverse peoples from the communities you are hoping to work with, as well as feminist groups and local organizations.
-This data can be collected through:
-- Focus group discussions with women, girls, men and boys
-- Key informant interviews (including leaders and members of women’s rights organizations)
-- Gathering personal testimonies from people directly affected.","“Capturer une perspective diversifiée de genre”]:
-Lorsque vous commencez le processus d'entretien, gardez à l'esprit l'équilibre entre les genres des personnes interrogées. Afin d'assurer l'exactitude et la crédibilité de votre évaluation, confirmez que vous consultez un pourcentage suffisant de femmes et de personnes non conformes au genre par rapport aux hommes. (Votre définition de ""suffisant"" variera en fonction du projet d'investissement et du contexte pertinent ; toutefois, la composition selon le genre de vos entretiens reste importante). En outre, assurez-vous de consulter des femmes et des personnes non conformes au genre issues de milieux divers. Leurs expériences peuvent être influencées par d'autres aspects de leur identité, tels que la race, la religion ou les capacités. Cela permettra de garantir la prise en compte nécessaire de l'accès des femmes et des personnes non conformes au genre à leurs droits relatifs au projet d'investissement et de leur jouissance tout au long du processus d'évaluation. Quelques conseils en vrac :
-•	Soyez attentifs aux personnes qui ne participent pas aux discussions, dont la voix n'est pas entendue et dont la perspective n'est pas partagée. 
-•	Soyez conscient des relations de pouvoir et des déséquilibres : promouvez les droits des personnes à l'agence et à la voix, et demandez plus d'opportunités de participation. Pour ce faire, vous pouvez vous entretenir avec des femmes, des hommes et des personnes de genres variés issus des communautés avec lesquelles vous souhaitez travailler, ainsi qu'avec des groupes féministes et des organisations locales.
-•	Ces données peuvent être recueillies par :
-o	Discussions de groupe avec des femmes, des filles, des hommes et des garçons.
-o	Entretiens avec des informateurs clés (notamment des dirigeants et des membres d'organisations de défense des droits des femmes)
-o	Recueillir les témoignages personnels des personnes directement touchées.","“Captar una perspectiva de diversidad de género”]:
-Al iniciar el proceso, tengan en cuenta el equilibrio de género de las personas entrevistadas. A fin de garantizar que su evaluación sea fidedigna y creíble, confirmen que se cuente con un porcentaje suficiente de mujeres y personas de género diverso en comparación con el de hombres. (La definición de “suficiente” variará según el proyecto de inversión y el contexto relevante; sin embargo, la composición de género de su entrevista no deja de ser importante). Además, asegúrense de consultar a mujeres y personas de género diverso de una variedad de orígenes sociales. En las vivencias de las mujeres y personas de género diverso pueden influir otros aspectos de su identidad como la raza, la religión o la capacidad. Esto contribuirá a garantizar la consideración necesaria del acceso y el goce de las mujeres y las personas de género diverso a sus derechos respecto al proyecto de inversión a lo largo del proceso de evaluación. Algunos consejos, en resumen:
-
-•	Fíjense en quiénes faltan en los diálogos, qué voces no se están oyendo, la perspectiva de quiénes no se está compartiendo. 
-•	Sean conscientes de las relaciones y desequilibrios de poder: promuevan los derechos de la gente al poder de iniciativa y a tener voz y hagan un llamado a que haya más oportunidades para la participación. Esto se puede hacer hablando con mujeres y hombres y personas de género diverso de las comunidades con las que ustedes esperan trabajar, así como con grupos feministas y organizaciones locales.
-•	Estos datos se pueden recopilar mediante:
-o	Charlas en grupos de sondeo con mujeres, muchachas, hombres y muchachos
-o	Entrevistas con informantes clave (como dirigentes e integrantes de organizaciones pro derechos de la mujer)
-o	Reunir testimonios personales de gente afectada directamente.",EN,TRUE,,,,,
-C0215,Edit Text,Ph. D Step 15 - Interview Location,con los participantes,,,con los y las participantes,ES,,TRUE,,,,
-C0216,New Popup,"Ph. D Step 15 -- Here are a few elements to consider in conducting interviews -- Below ""Sex disaggregated data"" added",,"Replace text on left with: If so, why?",,,EN,TRUE,,,,,
-C0217,New Popup,"Ph. D Step 15 -- New gender pop up called ""Examples capturing gender and intersectional analysis""",,"Replace text on left with: If so, why?",,,EN,TRUE,,,,,
-C0218,New Popup,"Ph. D Step 15 -- Gender pop up called ""Examples capturing gender and intersectional analysis""",,"Replace text on left with: 10. Do you have the possibility of being promoted?
-11. Do women have the possibility of being promoted? [NEW]
-12. Do you consider your working hours to be reasonable?",,,EN,TRUE,,,,,
-C0220,Edit Text,Ph. D Step 15 -- Here are a few elements to consider in conducting interviews -- Interview Location,"The location of an interview has an impact on confidentiality and security. When deciding where to meet with participants, you should make an effort to find a location that is suitable for the participants. We recommend that you ensure the meeting takes place in a safe and familiar location, which could be the participant’s home or office, the home or office of a third party, or a public place. When possible, we suggest that you offer the participant a choice of where he or she prefers to do the interview.",Replace text on left with: The Right to Freedom from Child Labour,,,EN,,TRUE,,,,
-C0221,Edit Text,Ph. D Step 15 -- Here are a few elements to consider in conducting interviews -- Language Used,"Language used
-In order to ensure better participation, community members should communicate in their own language. If interpretation is required, we recommend that you use independent translation services. Previous experience has highlighted the importance of carefully explaining the interpreter’s role to him or her. You do not want to have the interpreter pursuing his or her own line of inquiry, or influencing or adding to the interview. We recommend that you clearly state to the interpreter that his or her role is to facilitate the exchange of information between the assessment team and participants. We also recommend using someone who the respondent trusts for the purpose of translating the interview. This will encourage a better exchange of ideas and information.",Replace text on left with: Are they affected differently than men?,,,EN,,TRUE,,,,
-C0223,Edit Text,Ph. D Step 17 -- Your approach will be somewhat different if the project is still in the planning phase...,"""In previous steps"" ...","Replace text on left with: ""In step 11""",,,EN,,TRUE,,,,
-C0224,Edit Text,Ph. D Step 17 -- The company and human rights in practice,"The company and human rights in practice
-What is the reality on the ground?
-What is the company’s history with regard to human rights in this project or in other projects?
-How does it perceive the impact of the investment on different human rights?
-What is its relationship with community members?
-Has anything happened in the past with the community that has had a positive or negative impact on its relationship with the company?
-How transparent has the company been in its relationship with community members?","Add the following text at the end of the list of questions:
-- Is there a history of or reported pattern of workplace discrimination in terms of work opportunity and development? 
-- Is political, physical or sexual harassment part of workplace or community environments?","Add the following text at the end of the list of questions:
-- Existe-t-il des antécédents ou un modèle signalé de discrimination sur le lieu de travail en termes d'opportunités et de développement professionnels ? 
-- Le harcèlement politique, physique ou sexuel fait-il partie de l'environnement de travail ou de la communauté ?","Add the following text at the end of the list of questions:
-- ¿Existe un historial o hay constancia de conductas reiteradas de discriminación en cuanto a oportunidades de trabajo y de desarrollo?
-- ¿El hostigamiento político, físico o sexual forma parte de los entornos de trabajo o de la comunidad?",EN,,TRUE,,,,
 C0225,New Popup,"Ph. D Step 16 -- New gender pop up called ""Sex-disaggregated data""",,"New gender pop up called: Collecting sex-disaggregated data •	As the first step in collecting and presenting sex-disaggregated data, examine the country’s policy practice and behavior regarding gender equality and non-discrimination.",,,EN,,TRUE,,,,
 C0226,New Popup,Ph D Step 16 -- After the onscreen text paragraphs,,"Onscreen question: How is the government ensuring protection of women’s rights?
 Content of worth browsing pop-up:
@@ -63,16 +16,7 @@ o	Go here to search by country or indicator https://data.worldbank.org/
 •	Background Note on Human Rights Violations against Intersex People (https://www.ohchr.org/Documents/Issues/Discrimination/LGBT/BackgroundNoteHumanRightsViolationsagainstIntersexPeople.pdf)
 •	Women and Girls with Disabilities: UN report on the specific abuses that women with different ability levels face (https://www.un.org/development/desa/disabilities/issues/women-and-girls-with-disabilities.html)
 •	Gender and Indigenous Peoples Human Rights: UN report https://www.un.org/esa/socdev/unpfii/documents/BriefingNote6_GREY.pdf",,,,TRUE,,,,,
-C0227,Move Text,Ph. D Step 17 -- The company and human rights in theory --> Ph. B Step 11 -- 11A,,"Move the following text to 11A: The company and human rights in theory
-•	How does the company deal with human rights on paper (including its policies, codes of conduct and the clauses in its agreement with the host government)?
-•	What commitments has it made?
-•	Is it aware of human rights issues in the area where it operates?
-•	Is it integrating human rights concerns into its operations?",,,EN,TRUE,,,,,
 C0228,Edit Text,Ph. D Step 17 -- The company and human rights in theory,,,o	Quelles sont les politiques mises en place par l'entreprise pour garantir le respect des droits des femmes et des personnes non-conformes au genre et l'égalité de genre au sein de l'entreprise et de ses activités commerciales ?,o	¿Qué políticas ha implantado la empresa para garantizar el respeto a los derechos y la igualdad de género de las mujeres y las personas de género diverso dentro de la empresa y las actividades comerciales de esta?,,,TRUE,,,,
-C0231,Edit Text,"Ph. D Step 16 - New heading right before ""Once you have a clearer idea of what is missing""",,,"Données ventilées selon le genre 
-
-La première étape de la collecte et de la présentation de données ventilées selon le genre consiste à examiner les pratiques politiques et le comportement du pays en matière d'égalité de genre et de non-discrimination.","Datos desglosados por genero 
-•	Como primer paso de la recopilación y presentación de datos desglosados por genero, revisen la práctica de políticas y la conducta del país en materia de igualdad de género y no discriminación.",,,TRUE,,,,
 C0232,Edit Text,Ph.D - Step 16 - Worth browsing,,"Under Other international and Non-governmental organization - 
 ***Delete: 
 Human Rights and Business Project (www.humanrightsbusiness.org). Country risk assessments for some countries (such as Brazil, Algeria, India, Libya, China, Tanzania, South Africa, Ukraine, Kazakhstan and Vietnam) can also be found on at www.humanrightsimpact.org.
